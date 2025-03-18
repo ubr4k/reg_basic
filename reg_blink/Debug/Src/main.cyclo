@@ -1,0 +1,4 @@
+../Src/main.c:27:5:main	1
+../Src/main.c:42:6:SystemClockConfig	4
+../Src/main.c:86:6:gpioConfig	1
+../Src/main.c:99:6:delay	2
